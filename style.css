@@ -1,0 +1,75 @@
+
+
+    h1 {
+        color: red;
+        text-align: center;
+    }
+    
+    img { 
+        height: 600px;;
+        width: 928px;
+        float: left;
+        margin-right:1000px;
+        margin-top: 50px;
+
+        
+        
+    }
+    p{
+        font-size: 30px;
+    }
+    #duvidas{
+        position:left;
+       
+    }
+    #title {
+        text-align: center;
+        color: rgb(92, 1, 238);
+    }
+    table{
+        background-color: rgb(166, 166, 223);
+        text-align: center
+    }
+    table{
+         height: 400px;   
+         left: 1200px;
+    }
+ .titulotabela{
+    color: rgb(0, 0, 0);  
+    
+ }
+ .texto1{
+    color: rgb(0, 0, 0);
+    position: absolute;
+    left: 1000px;
+    font-size: 21px;
+    margin: 60px;
+    margin-top: 90px;
+    top: 30px;
+    text-align: center;
+ }
+#resumosobreosol{
+    color: rgb(27, 2, 51);
+    width: 300px;
+}
+#Sol{
+ color: red;
+ position: absolute;
+ left: 1300px;
+}
+.textoimagem2{
+    position: absolute;
+    margin-top: 100px;
+    left:1000px;
+    font-size: 30px;
+
+}
+p{
+    text-align: justify;
+    font-size: 20px;
+}
+ul{
+    font-size: 20px;
+    text-align: justify;
+
+}
