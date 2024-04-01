@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aprendendo a estrutura de um site</title>
+</head>
+<body>
+    <!-- Grouping tags -->
+    <header> <!-- Cabeçalho -->
+   <nav>
+    <!-- Mneu de navegação -->
+   </nav>  
+    </header>
+    <main><!-- Conteudo principal, é tipo um body dentro do body -->
+   
+        <section><!-- É como se fosse uma seção -->
+
+            <article>
+
+            </article>
+
+   </section>
+    </main>
+    <footer><!-- Final da página -->
+
+    </footer>
+</body>
+</html>
